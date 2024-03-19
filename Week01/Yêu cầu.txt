@@ -1,0 +1,24 @@
+Week_01: Thu thập dữ liệu
+
+Ex_01:
+   - Sử dụng công cụ Whois lấy thông tin về tên miền hutech.edu.vn => Đưa vào báo cáo va giải thích các thông tin.
+   - Thu thập thêm thông tin của 1 domain bất kỳ khác => Đưa vào báo cáo và giải thích các thông tin.
+Ex_02:
+   - Sử dụng công cụ DNS Lookup của website http://network-tools.com/ với domain hutech.edu.vn => Đưa kết quả vào báo cáo và giải thích các thông tin.
+   - Thu thập thêm thông tin của 1 domain bất kỳ khác => Đưa vào báo cáo và giải thích các thông tin.
+Ex_03:
+   - Sử dụng công cụ Magic Nettrace để traceroute đến hutech.edu.vn => Đưa kết quả vào báo cáo và giải thích các thông tin.
+   - Traceroute thêm 1 domain bất kỳ khác => Đưa vào báo cáo và giải thích các thông tin.
+Ex_04:
+   - Sử dụng công cụ Web Data Extractor để thu thập thông tin số điện thoại, email, fax của domain daotao.hutech.edu.vn => Đưa kết quả vào báo cáo và giải thích các thông tin.
+   - Thu thập thêm thông tin của 1 domain bất kỳ khác => Đưa vào báo cáo và giải thích các thông tin.
+Ex_05:
+   - Sử dụng công cụ Owasp ZAP quét tự động website hutech.edu.vn => Phân loại các thông tin liên quan network và đưa vào báo cáo, giải thích các thông số.
+Ex_06:
+   - Sử dụng công cụ Acunetix quét tự động 1 domain bất kỳ => Phân loại các thông tin liên quan network và đưa vào báo cáo.
+   - Xuất report từ phần mềm theo tiêu chuẩn ISO/IEC 27001 => Phân loại và giải thích các thông tin ảnh hưởng đến ISMS.
+Ex_07:
+   - Cài đặt Kali Linux trên VMWare Workstation.
+   - Thực hiện bài tập buffer overflow.
+   - Dùng công cụ nmap thăm dò các port đang mở của hutech.edu.vn => Phân tích các COMMON PORT / OPEN PORT.
+   Ref: https://www.kali.org/tools/nmap/

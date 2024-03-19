@@ -1,0 +1,13 @@
+Week_02:
+
+Windows:
+Câu 1. Sử dụng Proxifier để giả mạo ip của Attacker. Giải thích thông số IP trước và sau.
+Câu 2. Sử dụng công cụ ID Serve và httprecon.
+Câu 3. Sử dụng Nmap trên Windows. Liệt kê các port đang mở trên 2 trang web/IP.
+Câu 4. Sử dụng công cụ Advanced IP Scanner. Liệt kê danh sách IP quét được, giải thích thông số.
+
+Kali Linux:
+Câu 5. Sử dụng công cụ Công cụ Footprinting Maltego.
+Câu 6. Sử dụng công cụ Footprinting Recon-ng.
+Câu 7. Sử dụng công cụ FOCA.
+Câu 8. Thu thập thông tin bằng cách sử dụng Metasploit. Giải thích các thông tin thu thập được.
